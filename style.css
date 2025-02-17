@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(139, 142, 63);
+}
+.navmenu {
+    overflow: hidden;
+   background-color: hsla(206, 68%, 47%, 0.903);
+}
+
+.navmenu a {
+    float: right;
+    display: block;
+    color: rgb(10, 10, 10);
+    text-decoration: none;
+    padding: 18px 16px;
+    font-size: large;
+    
+}
+.navmenu .navHome {
+    float: left;
+}
+.navmenu a:hover{
+    color: azure;
+    background-color: brown;
+}
+
+#profile img{
+    padding-left: 15px;
+    padding-top: 30px;
+    margin-right: 15px;
+}
+#profile{
+    display: flex;  
+}
+#profile h2 {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+ .profile-about p{
+    float: left;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large ;
+}
+hr {
+    height: 2px; 
+    background-color: rgb(15, 15, 15);
+}
+.Education1, .Education2 {
+    float: left;
+    width: 50%; 
+}
+.Education1, .Education2 b  {
+    font-size: large;
+}
+.Education1, .Education2 p  {
+    font-size: large;
+}
+#Edu-details{
+    text-decoration: underline;
+    text-align: center;
+}
+#Blogs a{
+    color: rgb(98, 43, 226);
+    font-size: large;
+}
+#Contact {
+    display: flex;
+}
+#Contact img {
+    width: 60px; 
+    height: auto; 
+    margin-right: 10px; 
+}
+#Contact a {
+    margin:auto; 
+}
