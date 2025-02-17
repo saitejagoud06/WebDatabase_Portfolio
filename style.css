@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(139, 142, 63);
+    background-color: rgb(166, 83, 83);
 }
 .navmenu {
     overflow: hidden;
-   background-color: hsla(206, 68%, 47%, 0.903);
+   background-color: hsla(91, 57%, 50%, 0.903);
 }
 
 .navmenu a {
@@ -61,7 +61,7 @@ hr {
     text-align: center;
 }
 #Blogs a{
-    color: rgb(98, 43, 226);
+    
     font-size: large;
 }
 #Contact {
